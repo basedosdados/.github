@@ -1,4 +1,4 @@
-## Bem vindo(a)!
+## Hello, databaser! 👋
 
 A Base dos Dados é uma organização sem fins lucrativos com a missão de universalizar o acesso a dados de qualidade para todos(as).
 
